@@ -1,2 +1,2 @@
 # IBM-Data-Science
-Tools for Data Science - Coursera
+Data Science Projects - Coursera
